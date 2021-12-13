@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest_Api_Moviea", "Rest_Api_Moviea\Rest_Api_Moviea.csproj", "{35750ED5-D9F7-4601-BB30-93D423F9C671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Models", "Api.Models\Api.Models.csproj", "{94EB3D26-DCD0-407E-903F-FDA35F3A4763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Data", "Api.Data\Api.Data.csproj", "{436B79B6-2FE8-499C-81B7-3370F32D0879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{35750ED5-D9F7-4601-BB30-93D423F9C671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35750ED5-D9F7-4601-BB30-93D423F9C671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35750ED5-D9F7-4601-BB30-93D423F9C671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EB3D26-DCD0-407E-903F-FDA35F3A4763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EB3D26-DCD0-407E-903F-FDA35F3A4763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EB3D26-DCD0-407E-903F-FDA35F3A4763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EB3D26-DCD0-407E-903F-FDA35F3A4763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
