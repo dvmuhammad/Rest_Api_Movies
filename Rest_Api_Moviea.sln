@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Models", "Api.Models\Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Data", "Api.Data\Api.Data.csproj", "{436B79B6-2FE8-499C-81B7-3370F32D0879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Repositories", "Api.Repositories\Api.Repositories.csproj", "{84ED2526-4393-4656-8DFB-19C636B2776C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Services", "Api.Services\Api.Services.csproj", "{D43BD96E-67F0-47DA-9B9A-C42B82853F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{436B79B6-2FE8-499C-81B7-3370F32D0879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84ED2526-4393-4656-8DFB-19C636B2776C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84ED2526-4393-4656-8DFB-19C636B2776C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84ED2526-4393-4656-8DFB-19C636B2776C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84ED2526-4393-4656-8DFB-19C636B2776C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43BD96E-67F0-47DA-9B9A-C42B82853F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43BD96E-67F0-47DA-9B9A-C42B82853F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43BD96E-67F0-47DA-9B9A-C42B82853F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43BD96E-67F0-47DA-9B9A-C42B82853F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

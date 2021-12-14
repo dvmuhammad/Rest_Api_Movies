@@ -18,3 +18,15 @@ Create a `REST API` for movie/actors data with `CRUD` options.Implemented accord
     - api/movies/{id}
   - `DELETE`
     - api/movies/{id}
+
+    
+- To validate `POST` endpoint
+
+```
+{
+    "title": "Matrixa 4",
+    "year": 2021,
+    "ageRestriction": 18,
+    "price": 100
+}
+```
